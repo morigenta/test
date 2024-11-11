@@ -1,3 +1,2 @@
 gitの練習
 add　ファイルをgitの追跡対象にできる
-yorosiku
